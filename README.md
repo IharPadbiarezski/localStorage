@@ -6,4 +6,4 @@
 - On page loa the messages should be loaded from Local Storage and displayed in the page
 - The user can remove messages and this will remove them also from Local Storge
 
-Link: 
+Link: https://iharpadbiarezski.github.io/localStorage/
